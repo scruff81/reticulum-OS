@@ -10,3 +10,6 @@ Based on debian 13 (trixie). Included is rnsd, lxmf, nomadnet, and direwolf. lmx
  reticulum: /home/rns/.reticulum/config
 
  lxmf: /home/rns/.lxmf/config
+
+
+the default hostname is rns and password is Reticulum 
